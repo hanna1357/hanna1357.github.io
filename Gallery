@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gallery</title>
+</head>
+<body>
+  <h1>Gallery</h1>
+  <p>Your drawings or pictures can be shown here.</p>
+  <p><a href="index.html">← Back to Home</a></p>
+</body>
+</html>
