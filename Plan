@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Plan</title>
+</head>
+<body>
+  <h1>Plan</h1>
+  <p>The plan content goes here.</p>
+  <p><a href="index.html">← Back to Home</a></p>
+</body>
+</html>
